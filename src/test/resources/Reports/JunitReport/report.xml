@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="15.176">
+<testcase classname="User should check the functionality of login and registration of luma application" name="User should check the functionality of registration page of luma application" time="14.889">
+<system-out><![CDATA[Given The user should be in homepage of application.........................passed
+When The user should click the create an account button.....................passed
+And The user should enter the required details of it........................passed
+Then The user should verify the page after create an account................passed
+]]></system-out>
+</testcase>
+</testsuite>
